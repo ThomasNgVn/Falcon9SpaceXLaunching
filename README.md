@@ -17,3 +17,5 @@ determine the cost of the launch.
 - We use some machine algorithm to predict the result such as SVM,
 Classification Trees and Logistic Regression and K-Nearest Neighbors
 
+https://github.com/ThomasNgVn/IBM-Capstone/tree/master
+
